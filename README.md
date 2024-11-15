@@ -1,6 +1,7 @@
 # Salary Prediction App
 
-## Deployed Link (`https://salary-prediction-model-using-ml.streamlit.app/`)
+## Deployed Link
+You can try the live demo of the app by clicking [here](https://salary-prediction-model-using-ml.streamlit.app/).
 
 ## Overview
 This is a web application built using **Streamlit** and a **Linear Regression Model** to predict the salary of an individual based on their years of experience. Users can either input their years of experience for a single prediction or upload a CSV file to get predictions for multiple entries.

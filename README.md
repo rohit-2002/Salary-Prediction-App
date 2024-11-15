@@ -13,7 +13,8 @@ This is a web application built using **Streamlit** and a **Linear Regression Mo
 - **Python** for data manipulation and model prediction
 - **Scikit-learn** for the Linear Regression model
 - **Plotly** for interactive graphs
-
+- 
+**Deployed Link** section (`https://salary-prediction-model-using-ml.streamlit.app/`)
 ## Installation
 To run the app locally:
 
